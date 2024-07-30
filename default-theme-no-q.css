@@ -629,11 +629,13 @@ div.typing {
 .five9-chat-button{
     font-size: 24px !important;
     background: black !important;
+	border-radius: 0;
 }
 
 .five9-action-btn {
     background-color: #222222 !important;
     color: white !important;
+	border-radius: 0;
 }
 
 .ui-btn-icon-left:after,
@@ -681,10 +683,12 @@ div.message-container-agent div.message-container {
   font-weight: normal;
   font-style: normal;
     color: white !important;
+   border-radius: 0;
 } 
 
 /* Active Chat, Chatter's message bubble */
 div.message-container-client div.message-container {
     background-color: black !important;
     color: white !important;
+	border-radius: 0;
 }
