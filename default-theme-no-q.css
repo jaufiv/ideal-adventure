@@ -626,14 +626,6 @@ div.typing {
     background-image: url("../../images/channels/channel-video-hover-default.png");
 }
 
-#question-label::after {
-    content: 'Not a question';
-    font-size: 14px !important;
-}
-#question-label {
-    font-size: 0px !important;
-}
-
 .five9-chat-button{
     font-size: 24px !important;
     background: black !important;
