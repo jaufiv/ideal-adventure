@@ -622,7 +622,62 @@ div.typing {
 #question-label::after {
     content: 'Not a question';
     font-size: 14px !important;
-    }
-    #question-label {
+}
+#question-label {
     font-size: 0px !important;
-    }
+}
+
+        .five9-chat-button{
+            font-size: 24px !important;
+            background: black !important;
+        }
+
+        .five9-action-btn {
+            background-color: #222222 !important;
+            color: white !important;
+        }
+
+        .five9-chat-button {
+        font-size: 24px !important;
+        }
+        #five9-popout-button {
+        float: right;
+        }
+
+        .ui-btn-icon-left:after,
+        .ui-btn-icon-right:after,
+        .ui-btn-icon-top:after,
+        .ui-btn-icon-bottom:after,
+        .ui-btn-icon-notext:after {
+            background-color: black;
+            background-color: rgba(0, 0, 0, 0.3);
+            background-position: center center;
+            background-repeat: no-repeat;
+            -webkit-border-radius: 0;
+            border-radius: 0;
+        }
+
+        .ui-btn.ui-checkbox-off:after,
+        .ui-btn.ui-checkbox-on:after {
+            -webkit-border-radius: 0;
+            border-radius: 0;
+        }
+
+        .ui-corner-all {
+            -webkit-border-radius: 0;
+            border-radius: 0;
+        }
+        .ui-btn-corner-all,
+        .ui-btn.ui-corner-all,
+        .ui-slider-track.ui-corner-all,
+        .ui-flipswitch.ui-corner-all,
+        .ui-li-count {
+            -webkit-border-radius: 0;
+            border-radius: 0;
+        }
+        .ui-btn-icon-notext.ui-btn-corner-all,
+        .ui-btn-icon-notext.ui-corner-all {
+            -webkit-border-radius: 0;
+            border-radius: 0;
+        }
+
