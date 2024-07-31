@@ -692,3 +692,11 @@ div.message-container-client div.message-container {
     color: white !important;
 	border-radius: 0;
 }
+
+.question {
+	display: none;
+}
+
+#question-form-control{
+     display: none;
+}
