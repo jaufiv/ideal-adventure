@@ -693,10 +693,3 @@ div.message-container-client div.message-container {
 	border-radius: 0;
 }
 
-.question {
-	display: none;
-}
-
-#question-form-control{
-     display: none;
-}
