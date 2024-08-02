@@ -704,3 +704,8 @@ main {
 .sc-ftTHYK {
 	background-color: black !important;
 }
+
+#root > div > div.z-\[9997\].overflow-hidden.fixed.right-0.bottom-0.flex.gap-1.flex-col.items-center.justify-start.w-\[100\%\].h-\[100\%\].fn-open-view.false > div > main {
+	background-color: black !important;
+}
+
