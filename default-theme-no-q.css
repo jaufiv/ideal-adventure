@@ -693,6 +693,10 @@ div.message-container-client div.message-container {
 	border-radius: 0;
 }
 
+main {
+	background-color: black !important;
+}
+
 .main {
 	background-color: black !important;
 }
