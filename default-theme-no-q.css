@@ -693,7 +693,6 @@ div.message-container-client div.message-container {
 	border-radius: 0;
 }
 
-#question-form-control {
-   display: none;
+.main {
+	background-color: black !important;
 }
-
