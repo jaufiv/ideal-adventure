@@ -719,6 +719,15 @@ main {
 	color: white;
 }
 
-.text-label-default font-weight4 text-size5 {
+.text-label-default.font-weight4.text-size5 p{
 	color: white;
+}
+
+button[id='Start New Chat'] {
+	background-color: white;
+}
+
+button[id='Close Window'] {
+	background-color: white;
+}
 }
