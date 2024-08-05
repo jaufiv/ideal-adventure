@@ -711,6 +711,12 @@ main {
 .text-label-default.font-weight4.text-size5 {
 	color: white !important;
 }
+p.text-label-default.font-weight4.text-size5 {
+	color: white !important;
+}
+#root > div > div.z-\[9997\].overflow-hidden.fixed.right-0.bottom-0.flex.gap-1.flex-col.items-center.justify-start.w-\[100\%\].h-\[100\%\].fn-open-view.false > div > main > div > p {
+	color: white !important;
+}
 
 button[id='Start New Chat'] {
 	background-color: white !important;
