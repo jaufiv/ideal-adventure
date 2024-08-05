@@ -708,12 +708,13 @@ main {
 	color: white !important;
 }
 
-.text-label-default.font-weight4.text-size5 p{
+p.text-label-default.font-weight4.text-size5{
 	color: white !important;
 }
 
 button[id='Start New Chat'] {
 	background-color: white !important;
+	margin-bottom: 0.5rem;
 }
 
 button[id='Close Window'] {
