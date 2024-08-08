@@ -721,7 +721,7 @@ p.text-label-default.font-weight4.text-size5 {
 button[id='Start New Chat'] {
 	background-color: white !important;
 	margin-bottom: 0.25rem !important;
-	border-radius: 0 !important;
+/* 	border-radius: 0 !important; */
 }
 
 button[id='Close Window'] {
