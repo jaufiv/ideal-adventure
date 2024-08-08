@@ -727,3 +727,11 @@ button[id='Start New Chat'] {
 button[id='Close Window'] {
 	background-color: white !important;
 }
+
+.text-size5.font-weight4.text-label-default.pb-6 {
+	color: black !important;
+}
+
+.link.sc-gKPRtg.hnYqZR.link-primary.font-weight6.text-size2.link-hover {
+	color: white !important;
+}
