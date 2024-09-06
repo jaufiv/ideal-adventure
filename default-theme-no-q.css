@@ -354,7 +354,7 @@ button[disabled],
     outline-style: auto;
 }
 body {
-    background-color: white !important;
+    background-color: transparent !important;
 }
 .ui-overlay-a,
 .ui-page-theme-a,
