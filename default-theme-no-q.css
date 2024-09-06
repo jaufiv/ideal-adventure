@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
+
 html {
     font-size: 100%;
 }
@@ -17,6 +18,11 @@ button,
       font-weight: normal;
       font-style: normal;
 }
+
+body {
+	background-color: transparent !important;
+}
+
 legend,
 .ui-input-text input,
 .ui-input-search input {
