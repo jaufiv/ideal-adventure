@@ -744,6 +744,11 @@ button[id='Close Window'] {
     color: #4b5dff;
 }
 
+.cHaKjP.cHaKjP.font-weight6:hover {
+    border-color: rgb(0, 0, 0);
+    color: #999999;
+}
+
 
 .btn.sc-jSUZER.cHaKjP.btn.btn-sm.btn-primary.btn-outline.rounded-2xl.text-size2.font-weight5.py-1.px-2.min-w-[90px].false {
 	border-radius: 0;
